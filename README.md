@@ -5,7 +5,7 @@ They said,
 
 But is that enough? Everyone needs a code, more than code. Here is mine.
 
-First and foremost, I am an engineer. I like solving problems. I like solving them well.  I hope everytime that I don't create new ones. I don't keep Donald Knuth's *The Art of Computer Programming*  handy, but these words always ring in my head when I start looking for solutions:
+First and foremost, I am an engineer. I like finding problems. I like solving them well.  I hope everytime that I don't create new ones. I don't keep Donald Knuth's *The Art of Computer Programming*  handy, but these words always ring in my head when I start looking for solutions:
 
 > Premature optimization is the root of all evil.
 
@@ -21,7 +21,7 @@ I kind of like the > sign for this one....
 
 ![There is more than one way to do it](images/wall-border.png)
 
-Money, likes, shares, subscribes motivate you, eh mere mortal ? Asks Kannada poet D.V. Gundappa. Unravelling my thirst for recognition helps me understand more of myself...
+Money, likes, shares, subscribes motivate you, eh mere mortal ? Asks Kannada poet D.V. Gundappa (DVG). Unravelling my thirst for recognition helps me understand more of myself...
 
 > ಅನ್ನದಾತುರಕಿಂತ ಚಿನ್ನದಾತುರ ತೀಕ್ಷ್ಣ ।
 > 
@@ -67,7 +67,7 @@ But that's not snazzy enough. Let's give it a punch, shall we?
 
 > The World is NOT enough for my greed, but enough for my needs
 
-It this looks better this way:
+It looks better this way:
 
 ![The world is enough for my needs, but NOT enough for my greed](images/gandhi-border.png)
 
@@ -109,4 +109,4 @@ This mantra has wide utility. It can be used to enumerate new solutions, improve
 
 Here is a short user guide : In the context of what you seek, contemplate on all the shapes and forms ಸರ್ವೇ/सर्वे/"all" can take . 4 permutations of as many combinations that you can come up with (time permitting!). And then try to satisfy all the 4 statements. Hopefully you'll find *the* answer...
 
-PS: Your results will only be as good as your *survey* (pun intended). 
+PS: Your results may only be as wide as your *survey* (pun intended). 
