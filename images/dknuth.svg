@@ -29,7 +29,7 @@
      units="px"
      width="400px"
      inkscape:zoom="1.3986794"
-     inkscape:cx="176.23767"
+     inkscape:cx="175.88019"
      inkscape:cy="142.99203"
      inkscape:window-width="1646"
      inkscape:window-height="894"
@@ -74,6 +74,8 @@
          x="7.967134"
          y="38.148281">is <tspan
    style="fill:#808080"
-   id="tspan2">the root of all</tspan> evil</tspan></text>
+   id="tspan2">the <tspan
+   style="fill:#1a1a1a"
+   id="tspan3">root</tspan> of all</tspan> evil</tspan></text>
   </g>
 </svg>
